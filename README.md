@@ -7,5 +7,7 @@ Stack overflow logoThe survey data covers 64,000 reviews from 213 countries and
 " Which of the following best describes you?"
 " Which of the following best describes your current employment status?"
 " Which of the following best describes the highest level of formal education that you've completed?"
-## Medium Post
+## Medium Blog Post
 https://medium.com/@rem_lol/how-do-you-become-a-professional-developer-in-germany-ce5bfa591823?source=friends_link&sk=a4d41000a97d4faf75046196bae7e03b
+## Source Data
+https://insights.stackoverflow.com/survey
